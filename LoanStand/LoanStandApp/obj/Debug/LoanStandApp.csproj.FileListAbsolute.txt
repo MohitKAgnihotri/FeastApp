@@ -1,0 +1,190 @@
+C:\Users\bobkata\Desktop\UNI\PROP\c#\LoanStandApp\LoanStandApp\bin\Debug\LoanStandApp.exe.config
+C:\Users\bobkata\Desktop\UNI\PROP\c#\LoanStandApp\LoanStandApp\bin\Debug\LoanStandApp.exe
+C:\Users\bobkata\Desktop\UNI\PROP\c#\LoanStandApp\LoanStandApp\bin\Debug\LoanStandApp.pdb
+C:\Users\bobkata\Desktop\UNI\PROP\c#\LoanStandApp\LoanStandApp\obj\Debug\LoanStandApp.csprojAssemblyReference.cache
+C:\Users\bobkata\Desktop\UNI\PROP\c#\LoanStandApp\LoanStandApp\obj\Debug\LoanStandApp.Form1.resources
+C:\Users\bobkata\Desktop\UNI\PROP\c#\LoanStandApp\LoanStandApp\obj\Debug\LoanStandApp.Properties.Resources.resources
+C:\Users\bobkata\Desktop\UNI\PROP\c#\LoanStandApp\LoanStandApp\obj\Debug\LoanStandApp.csproj.GenerateResource.cache
+C:\Users\bobkata\Desktop\UNI\PROP\c#\LoanStandApp\LoanStandApp\obj\Debug\LoanStandApp.csproj.CoreCompileInputs.cache
+C:\Users\bobkata\Desktop\UNI\PROP\c#\LoanStandApp\LoanStandApp\obj\Debug\LoanStandApp.exe
+C:\Users\bobkata\Desktop\UNI\PROP\c#\LoanStandApp\LoanStandApp\obj\Debug\LoanStandApp.pdb
+C:\Users\bobkata\Desktop\UNI\PROP\c#\LoanStandApp\LoanStandApp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\bobkata\Desktop\UNI\PROP\c#\LoanStandApp\LoanStandApp\bin\Debug\Google.Protobuf.dll
+C:\Users\bobkata\Desktop\UNI\PROP\c#\LoanStandApp\LoanStandApp\bin\Debug\MySql.Data.dll
+C:\Users\bobkata\Desktop\UNI\PROP\c#\LoanStandApp\LoanStandApp\bin\Debug\Phidget22.NET.dll
+C:\Users\bobkata\Desktop\UNI\PROP\c#\LoanStandApp\LoanStandApp\bin\Debug\Google.Protobuf.xml
+C:\Users\bobkata\Desktop\UNI\PROP\c#\LoanStandApp\LoanStandApp\bin\Debug\MySql.Data.xml
+C:\Users\bobkata\Desktop\UNI\PROP\c#\LoanStandApp\LoanStandApp\bin\Debug\Phidget22.NET.pdb
+C:\Users\bobkata\Desktop\UNI\PROP\c#\LoanStandApp\LoanStandApp\bin\Debug\Phidget22.NET.xml
+C:\Users\bobkata\Desktop\UNI\PROP\c#\LoanStandApp\LoanStandApp\obj\Debug\LoanStandApp.csproj.CopyComplete
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\LoanStandApp\LoanStandApp\bin\Debug\LoanStandApp.exe.config
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\LoanStandApp\LoanStandApp\bin\Debug\LoanStandApp.exe
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\LoanStandApp\LoanStandApp\bin\Debug\LoanStandApp.pdb
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\LoanStandApp\LoanStandApp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\LoanStandApp\LoanStandApp\bin\Debug\Google.Protobuf.dll
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\LoanStandApp\LoanStandApp\bin\Debug\MySql.Data.dll
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\LoanStandApp\LoanStandApp\bin\Debug\Phidget22.NET.dll
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\LoanStandApp\LoanStandApp\bin\Debug\Google.Protobuf.xml
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\LoanStandApp\LoanStandApp\bin\Debug\MySql.Data.xml
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\LoanStandApp\LoanStandApp\bin\Debug\Phidget22.NET.pdb
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\LoanStandApp\LoanStandApp\bin\Debug\Phidget22.NET.xml
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\LoanStandApp\LoanStandApp\obj\Debug\LoanStandApp.csprojAssemblyReference.cache
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\LoanStandApp\LoanStandApp\obj\Debug\LoanStandApp.Form1.resources
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\LoanStandApp\LoanStandApp\obj\Debug\LoanStandApp.Properties.Resources.resources
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\LoanStandApp\LoanStandApp\obj\Debug\LoanStandApp.csproj.GenerateResource.cache
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\LoanStandApp\LoanStandApp\obj\Debug\LoanStandApp.csproj.CoreCompileInputs.cache
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\LoanStandApp\LoanStandApp\obj\Debug\LoanStandApp.csproj.CopyComplete
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\LoanStandApp\LoanStandApp\obj\Debug\LoanStandApp.exe
+C:\Users\bobkata\Desktop\UNI\PROP\TEST\c#\LoanStandApp\LoanStandApp\obj\Debug\LoanStandApp.pdb
+C:\Users\bobkata\Desktop\UNI\PROP\FinalApp\c#\LoanStandApp\LoanStandApp\bin\Debug\LoanStandApp.exe.config
+C:\Users\bobkata\Desktop\UNI\PROP\FinalApp\c#\LoanStandApp\LoanStandApp\bin\Debug\LoanStandApp.exe
+C:\Users\bobkata\Desktop\UNI\PROP\FinalApp\c#\LoanStandApp\LoanStandApp\bin\Debug\LoanStandApp.pdb
+C:\Users\bobkata\Desktop\UNI\PROP\FinalApp\c#\LoanStandApp\LoanStandApp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\bobkata\Desktop\UNI\PROP\FinalApp\c#\LoanStandApp\LoanStandApp\bin\Debug\Google.Protobuf.dll
+C:\Users\bobkata\Desktop\UNI\PROP\FinalApp\c#\LoanStandApp\LoanStandApp\bin\Debug\MySql.Data.dll
+C:\Users\bobkata\Desktop\UNI\PROP\FinalApp\c#\LoanStandApp\LoanStandApp\bin\Debug\Phidget22.NET.dll
+C:\Users\bobkata\Desktop\UNI\PROP\FinalApp\c#\LoanStandApp\LoanStandApp\bin\Debug\Google.Protobuf.xml
+C:\Users\bobkata\Desktop\UNI\PROP\FinalApp\c#\LoanStandApp\LoanStandApp\bin\Debug\MySql.Data.xml
+C:\Users\bobkata\Desktop\UNI\PROP\FinalApp\c#\LoanStandApp\LoanStandApp\bin\Debug\Phidget22.NET.pdb
+C:\Users\bobkata\Desktop\UNI\PROP\FinalApp\c#\LoanStandApp\LoanStandApp\bin\Debug\Phidget22.NET.xml
+C:\Users\bobkata\Desktop\UNI\PROP\FinalApp\c#\LoanStandApp\LoanStandApp\obj\Debug\LoanStandApp.csprojAssemblyReference.cache
+C:\Users\bobkata\Desktop\UNI\PROP\FinalApp\c#\LoanStandApp\LoanStandApp\obj\Debug\LoanStandApp.Form1.resources
+C:\Users\bobkata\Desktop\UNI\PROP\FinalApp\c#\LoanStandApp\LoanStandApp\obj\Debug\LoanStandApp.Properties.Resources.resources
+C:\Users\bobkata\Desktop\UNI\PROP\FinalApp\c#\LoanStandApp\LoanStandApp\obj\Debug\LoanStandApp.csproj.GenerateResource.cache
+C:\Users\bobkata\Desktop\UNI\PROP\FinalApp\c#\LoanStandApp\LoanStandApp\obj\Debug\LoanStandApp.csproj.CoreCompileInputs.cache
+C:\Users\bobkata\Desktop\UNI\PROP\FinalApp\c#\LoanStandApp\LoanStandApp\obj\Debug\LoanStandApp.csproj.CopyComplete
+C:\Users\bobkata\Desktop\UNI\PROP\FinalApp\c#\LoanStandApp\LoanStandApp\obj\Debug\LoanStandApp.exe
+C:\Users\bobkata\Desktop\UNI\PROP\FinalApp\c#\LoanStandApp\LoanStandApp\obj\Debug\LoanStandApp.pdb
+C:\Users\wonda\Desktop\pop_wondis\propGITexamples\c#\LoanStandApp\LoanStandApp\bin\Debug\LoanStandApp.exe.config
+C:\Users\wonda\Desktop\pop_wondis\propGITexamples\c#\LoanStandApp\LoanStandApp\bin\Debug\LoanStandApp.exe
+C:\Users\wonda\Desktop\pop_wondis\propGITexamples\c#\LoanStandApp\LoanStandApp\bin\Debug\LoanStandApp.pdb
+C:\Users\wonda\Desktop\pop_wondis\propGITexamples\c#\LoanStandApp\LoanStandApp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\wonda\Desktop\pop_wondis\propGITexamples\c#\LoanStandApp\LoanStandApp\bin\Debug\Google.Protobuf.dll
+C:\Users\wonda\Desktop\pop_wondis\propGITexamples\c#\LoanStandApp\LoanStandApp\bin\Debug\MySql.Data.dll
+C:\Users\wonda\Desktop\pop_wondis\propGITexamples\c#\LoanStandApp\LoanStandApp\bin\Debug\Phidget22.NET.dll
+C:\Users\wonda\Desktop\pop_wondis\propGITexamples\c#\LoanStandApp\LoanStandApp\bin\Debug\Google.Protobuf.xml
+C:\Users\wonda\Desktop\pop_wondis\propGITexamples\c#\LoanStandApp\LoanStandApp\bin\Debug\MySql.Data.xml
+C:\Users\wonda\Desktop\pop_wondis\propGITexamples\c#\LoanStandApp\LoanStandApp\bin\Debug\Phidget22.NET.pdb
+C:\Users\wonda\Desktop\pop_wondis\propGITexamples\c#\LoanStandApp\LoanStandApp\bin\Debug\Phidget22.NET.xml
+C:\Users\wonda\Desktop\pop_wondis\propGITexamples\c#\LoanStandApp\LoanStandApp\obj\Debug\LoanStandApp.csprojAssemblyReference.cache
+C:\Users\wonda\Desktop\pop_wondis\propGITexamples\c#\LoanStandApp\LoanStandApp\obj\Debug\LoanStandApp.Form1.resources
+C:\Users\wonda\Desktop\pop_wondis\propGITexamples\c#\LoanStandApp\LoanStandApp\obj\Debug\LoanStandApp.Properties.Resources.resources
+C:\Users\wonda\Desktop\pop_wondis\propGITexamples\c#\LoanStandApp\LoanStandApp\obj\Debug\LoanStandApp.csproj.GenerateResource.cache
+C:\Users\wonda\Desktop\pop_wondis\propGITexamples\c#\LoanStandApp\LoanStandApp\obj\Debug\LoanStandApp.csproj.CoreCompileInputs.cache
+C:\Users\wonda\Desktop\pop_wondis\propGITexamples\c#\LoanStandApp\LoanStandApp\obj\Debug\LoanStandApp.csproj.CopyComplete
+C:\Users\wonda\Desktop\pop_wondis\propGITexamples\c#\LoanStandApp\LoanStandApp\obj\Debug\LoanStandApp.exe
+C:\Users\wonda\Desktop\pop_wondis\propGITexamples\c#\LoanStandApp\LoanStandApp\obj\Debug\LoanStandApp.pdb
+C:\Users\fadia\Desktop\c#ca\LoanStandApp\LoanStandApp\LoanStandApp\bin\Debug\LoanStandApp.exe.config
+C:\Users\fadia\Desktop\c#ca\LoanStandApp\LoanStandApp\LoanStandApp\bin\Debug\LoanStandApp.exe
+C:\Users\fadia\Desktop\c#ca\LoanStandApp\LoanStandApp\LoanStandApp\bin\Debug\LoanStandApp.pdb
+C:\Users\fadia\Desktop\c#ca\LoanStandApp\LoanStandApp\LoanStandApp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\fadia\Desktop\c#ca\LoanStandApp\LoanStandApp\LoanStandApp\bin\Debug\Google.Protobuf.dll
+C:\Users\fadia\Desktop\c#ca\LoanStandApp\LoanStandApp\LoanStandApp\bin\Debug\MySql.Data.dll
+C:\Users\fadia\Desktop\c#ca\LoanStandApp\LoanStandApp\LoanStandApp\bin\Debug\Phidget22.NET.dll
+C:\Users\fadia\Desktop\c#ca\LoanStandApp\LoanStandApp\LoanStandApp\bin\Debug\Google.Protobuf.xml
+C:\Users\fadia\Desktop\c#ca\LoanStandApp\LoanStandApp\LoanStandApp\bin\Debug\MySql.Data.xml
+C:\Users\fadia\Desktop\c#ca\LoanStandApp\LoanStandApp\LoanStandApp\bin\Debug\Phidget22.NET.pdb
+C:\Users\fadia\Desktop\c#ca\LoanStandApp\LoanStandApp\LoanStandApp\bin\Debug\Phidget22.NET.xml
+C:\Users\fadia\Desktop\c#ca\LoanStandApp\LoanStandApp\LoanStandApp\obj\Debug\LoanStandApp.csprojAssemblyReference.cache
+C:\Users\fadia\Desktop\c#ca\LoanStandApp\LoanStandApp\LoanStandApp\obj\Debug\LoanStandApp.Form1.resources
+C:\Users\fadia\Desktop\c#ca\LoanStandApp\LoanStandApp\LoanStandApp\obj\Debug\LoanStandApp.Properties.Resources.resources
+C:\Users\fadia\Desktop\c#ca\LoanStandApp\LoanStandApp\LoanStandApp\obj\Debug\LoanStandApp.csproj.GenerateResource.cache
+C:\Users\fadia\Desktop\c#ca\LoanStandApp\LoanStandApp\LoanStandApp\obj\Debug\LoanStandApp.csproj.CoreCompileInputs.cache
+C:\Users\fadia\Desktop\c#ca\LoanStandApp\LoanStandApp\LoanStandApp\obj\Debug\LoanStandApp.csproj.CopyComplete
+C:\Users\fadia\Desktop\c#ca\LoanStandApp\LoanStandApp\LoanStandApp\obj\Debug\LoanStandApp.exe
+C:\Users\fadia\Desktop\c#ca\LoanStandApp\LoanStandApp\LoanStandApp\obj\Debug\LoanStandApp.pdb
+C:\Users\wonda\Desktop\propc#\LoanStandApp\LoanStandApp\bin\Debug\LoanStandApp.exe.config
+C:\Users\wonda\Desktop\propc#\LoanStandApp\LoanStandApp\bin\Debug\LoanStandApp.exe
+C:\Users\wonda\Desktop\propc#\LoanStandApp\LoanStandApp\bin\Debug\LoanStandApp.pdb
+C:\Users\wonda\Desktop\propc#\LoanStandApp\LoanStandApp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\wonda\Desktop\propc#\LoanStandApp\LoanStandApp\bin\Debug\Google.Protobuf.dll
+C:\Users\wonda\Desktop\propc#\LoanStandApp\LoanStandApp\bin\Debug\MySql.Data.dll
+C:\Users\wonda\Desktop\propc#\LoanStandApp\LoanStandApp\bin\Debug\Phidget22.NET.dll
+C:\Users\wonda\Desktop\propc#\LoanStandApp\LoanStandApp\bin\Debug\Google.Protobuf.xml
+C:\Users\wonda\Desktop\propc#\LoanStandApp\LoanStandApp\bin\Debug\MySql.Data.xml
+C:\Users\wonda\Desktop\propc#\LoanStandApp\LoanStandApp\bin\Debug\Phidget22.NET.pdb
+C:\Users\wonda\Desktop\propc#\LoanStandApp\LoanStandApp\bin\Debug\Phidget22.NET.xml
+C:\Users\wonda\Desktop\propc#\LoanStandApp\LoanStandApp\obj\Debug\LoanStandApp.csprojAssemblyReference.cache
+C:\Users\wonda\Desktop\propc#\LoanStandApp\LoanStandApp\obj\Debug\LoanStandApp.Form1.resources
+C:\Users\wonda\Desktop\propc#\LoanStandApp\LoanStandApp\obj\Debug\LoanStandApp.Properties.Resources.resources
+C:\Users\wonda\Desktop\propc#\LoanStandApp\LoanStandApp\obj\Debug\LoanStandApp.csproj.GenerateResource.cache
+C:\Users\wonda\Desktop\propc#\LoanStandApp\LoanStandApp\obj\Debug\LoanStandApp.csproj.CoreCompileInputs.cache
+C:\Users\wonda\Desktop\propc#\LoanStandApp\LoanStandApp\obj\Debug\LoanStandApp.csproj.CopyComplete
+C:\Users\wonda\Desktop\propc#\LoanStandApp\LoanStandApp\obj\Debug\LoanStandApp.exe
+C:\Users\wonda\Desktop\propc#\LoanStandApp\LoanStandApp\obj\Debug\LoanStandApp.pdb
+\\vmware-host\Shared Folders\Desktop\LoanStandApp\LoanStandApp\bin\Debug\LoanStandApp.exe.config
+\\vmware-host\Shared Folders\Desktop\LoanStandApp\LoanStandApp\bin\Debug\LoanStandApp.exe
+\\vmware-host\Shared Folders\Desktop\LoanStandApp\LoanStandApp\bin\Debug\LoanStandApp.pdb
+\\vmware-host\Shared Folders\Desktop\LoanStandApp\LoanStandApp\bin\Debug\BouncyCastle.Crypto.dll
+\\vmware-host\Shared Folders\Desktop\LoanStandApp\LoanStandApp\bin\Debug\Google.Protobuf.dll
+\\vmware-host\Shared Folders\Desktop\LoanStandApp\LoanStandApp\bin\Debug\MySql.Data.dll
+\\vmware-host\Shared Folders\Desktop\LoanStandApp\LoanStandApp\bin\Debug\Phidget22.NET.dll
+\\vmware-host\Shared Folders\Desktop\LoanStandApp\LoanStandApp\bin\Debug\Google.Protobuf.xml
+\\vmware-host\Shared Folders\Desktop\LoanStandApp\LoanStandApp\bin\Debug\MySql.Data.xml
+\\vmware-host\Shared Folders\Desktop\LoanStandApp\LoanStandApp\bin\Debug\Phidget22.NET.pdb
+\\vmware-host\Shared Folders\Desktop\LoanStandApp\LoanStandApp\bin\Debug\Phidget22.NET.xml
+\\vmware-host\Shared Folders\Desktop\LoanStandApp\LoanStandApp\obj\Debug\LoanStandApp.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\LoanStandApp\LoanStandApp\obj\Debug\LoanStandApp.Form1.resources
+\\vmware-host\Shared Folders\Desktop\LoanStandApp\LoanStandApp\obj\Debug\LoanStandApp.Properties.Resources.resources
+\\vmware-host\Shared Folders\Desktop\LoanStandApp\LoanStandApp\obj\Debug\LoanStandApp.csproj.GenerateResource.cache
+\\vmware-host\Shared Folders\Desktop\LoanStandApp\LoanStandApp\obj\Debug\LoanStandApp.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Desktop\LoanStandApp\LoanStandApp\obj\Debug\LoanStandApp.csproj.CopyComplete
+\\vmware-host\Shared Folders\Desktop\LoanStandApp\LoanStandApp\obj\Debug\LoanStandApp.exe
+\\vmware-host\Shared Folders\Desktop\LoanStandApp\LoanStandApp\obj\Debug\LoanStandApp.pdb
+C:\Users\wonda\Desktop\LoanStandApp version 2\LoanStandApp\bin\Debug\LoanStandApp.exe.config
+C:\Users\wonda\Desktop\LoanStandApp version 2\LoanStandApp\bin\Debug\LoanStandApp.exe
+C:\Users\wonda\Desktop\LoanStandApp version 2\LoanStandApp\bin\Debug\LoanStandApp.pdb
+C:\Users\wonda\Desktop\LoanStandApp version 2\LoanStandApp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\wonda\Desktop\LoanStandApp version 2\LoanStandApp\bin\Debug\Google.Protobuf.dll
+C:\Users\wonda\Desktop\LoanStandApp version 2\LoanStandApp\bin\Debug\MySql.Data.dll
+C:\Users\wonda\Desktop\LoanStandApp version 2\LoanStandApp\bin\Debug\Phidget22.NET.dll
+C:\Users\wonda\Desktop\LoanStandApp version 2\LoanStandApp\bin\Debug\Google.Protobuf.xml
+C:\Users\wonda\Desktop\LoanStandApp version 2\LoanStandApp\bin\Debug\MySql.Data.xml
+C:\Users\wonda\Desktop\LoanStandApp version 2\LoanStandApp\bin\Debug\Phidget22.NET.pdb
+C:\Users\wonda\Desktop\LoanStandApp version 2\LoanStandApp\bin\Debug\Phidget22.NET.xml
+C:\Users\wonda\Desktop\LoanStandApp version 2\LoanStandApp\obj\Debug\LoanStandApp.csprojAssemblyReference.cache
+C:\Users\wonda\Desktop\LoanStandApp version 2\LoanStandApp\obj\Debug\LoanStandApp.Form1.resources
+C:\Users\wonda\Desktop\LoanStandApp version 2\LoanStandApp\obj\Debug\LoanStandApp.Properties.Resources.resources
+C:\Users\wonda\Desktop\LoanStandApp version 2\LoanStandApp\obj\Debug\LoanStandApp.csproj.GenerateResource.cache
+C:\Users\wonda\Desktop\LoanStandApp version 2\LoanStandApp\obj\Debug\LoanStandApp.csproj.CoreCompileInputs.cache
+C:\Users\wonda\Desktop\LoanStandApp version 2\LoanStandApp\obj\Debug\LoanStandApp.csproj.CopyComplete
+C:\Users\wonda\Desktop\LoanStandApp version 2\LoanStandApp\obj\Debug\LoanStandApp.exe
+C:\Users\wonda\Desktop\LoanStandApp version 2\LoanStandApp\obj\Debug\LoanStandApp.pdb
+C:\Users\wonda\Desktop\LoanStandApfeb20version\LoanStandApp\bin\Debug\LoanStandApp.exe.config
+C:\Users\wonda\Desktop\LoanStandApfeb20version\LoanStandApp\bin\Debug\LoanStandApp.exe
+C:\Users\wonda\Desktop\LoanStandApfeb20version\LoanStandApp\bin\Debug\LoanStandApp.pdb
+C:\Users\wonda\Desktop\LoanStandApfeb20version\LoanStandApp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\wonda\Desktop\LoanStandApfeb20version\LoanStandApp\bin\Debug\Google.Protobuf.dll
+C:\Users\wonda\Desktop\LoanStandApfeb20version\LoanStandApp\bin\Debug\MySql.Data.dll
+C:\Users\wonda\Desktop\LoanStandApfeb20version\LoanStandApp\bin\Debug\Phidget22.NET.dll
+C:\Users\wonda\Desktop\LoanStandApfeb20version\LoanStandApp\bin\Debug\Google.Protobuf.xml
+C:\Users\wonda\Desktop\LoanStandApfeb20version\LoanStandApp\bin\Debug\MySql.Data.xml
+C:\Users\wonda\Desktop\LoanStandApfeb20version\LoanStandApp\bin\Debug\Phidget22.NET.pdb
+C:\Users\wonda\Desktop\LoanStandApfeb20version\LoanStandApp\bin\Debug\Phidget22.NET.xml
+C:\Users\wonda\Desktop\LoanStandApfeb20version\LoanStandApp\obj\Debug\LoanStandApp.csprojAssemblyReference.cache
+C:\Users\wonda\Desktop\LoanStandApfeb20version\LoanStandApp\obj\Debug\LoanStandApp.Form1.resources
+C:\Users\wonda\Desktop\LoanStandApfeb20version\LoanStandApp\obj\Debug\LoanStandApp.Properties.Resources.resources
+C:\Users\wonda\Desktop\LoanStandApfeb20version\LoanStandApp\obj\Debug\LoanStandApp.csproj.GenerateResource.cache
+C:\Users\wonda\Desktop\LoanStandApfeb20version\LoanStandApp\obj\Debug\LoanStandApp.csproj.CoreCompileInputs.cache
+C:\Users\wonda\Desktop\LoanStandApfeb20version\LoanStandApp\obj\Debug\LoanStandApp.csproj.CopyComplete
+C:\Users\wonda\Desktop\LoanStandApfeb20version\LoanStandApp\obj\Debug\LoanStandApp.exe
+C:\Users\wonda\Desktop\LoanStandApfeb20version\LoanStandApp\obj\Debug\LoanStandApp.pdb
+C:\Users\wonda\Desktop\prop_teamwolftec-Obaid\propc#\newVersion1_11_2020\LoanStandApfeb20version\LoanStandApp\bin\Debug\LoanStandApp.exe.config
+C:\Users\wonda\Desktop\prop_teamwolftec-Obaid\propc#\newVersion1_11_2020\LoanStandApfeb20version\LoanStandApp\bin\Debug\LoanStandApp.exe
+C:\Users\wonda\Desktop\prop_teamwolftec-Obaid\propc#\newVersion1_11_2020\LoanStandApfeb20version\LoanStandApp\bin\Debug\LoanStandApp.pdb
+C:\Users\wonda\Desktop\prop_teamwolftec-Obaid\propc#\newVersion1_11_2020\LoanStandApfeb20version\LoanStandApp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\wonda\Desktop\prop_teamwolftec-Obaid\propc#\newVersion1_11_2020\LoanStandApfeb20version\LoanStandApp\bin\Debug\Google.Protobuf.dll
+C:\Users\wonda\Desktop\prop_teamwolftec-Obaid\propc#\newVersion1_11_2020\LoanStandApfeb20version\LoanStandApp\bin\Debug\MySql.Data.dll
+C:\Users\wonda\Desktop\prop_teamwolftec-Obaid\propc#\newVersion1_11_2020\LoanStandApfeb20version\LoanStandApp\bin\Debug\Phidget22.NET.dll
+C:\Users\wonda\Desktop\prop_teamwolftec-Obaid\propc#\newVersion1_11_2020\LoanStandApfeb20version\LoanStandApp\bin\Debug\Google.Protobuf.xml
+C:\Users\wonda\Desktop\prop_teamwolftec-Obaid\propc#\newVersion1_11_2020\LoanStandApfeb20version\LoanStandApp\bin\Debug\MySql.Data.xml
+C:\Users\wonda\Desktop\prop_teamwolftec-Obaid\propc#\newVersion1_11_2020\LoanStandApfeb20version\LoanStandApp\bin\Debug\Phidget22.NET.pdb
+C:\Users\wonda\Desktop\prop_teamwolftec-Obaid\propc#\newVersion1_11_2020\LoanStandApfeb20version\LoanStandApp\bin\Debug\Phidget22.NET.xml
+C:\Users\wonda\Desktop\prop_teamwolftec-Obaid\propc#\newVersion1_11_2020\LoanStandApfeb20version\LoanStandApp\obj\Debug\LoanStandApp.csprojAssemblyReference.cache
+C:\Users\wonda\Desktop\prop_teamwolftec-Obaid\propc#\newVersion1_11_2020\LoanStandApfeb20version\LoanStandApp\obj\Debug\LoanStandApp.Form1.resources
+C:\Users\wonda\Desktop\prop_teamwolftec-Obaid\propc#\newVersion1_11_2020\LoanStandApfeb20version\LoanStandApp\obj\Debug\LoanStandApp.Properties.Resources.resources
+C:\Users\wonda\Desktop\prop_teamwolftec-Obaid\propc#\newVersion1_11_2020\LoanStandApfeb20version\LoanStandApp\obj\Debug\LoanStandApp.csproj.GenerateResource.cache
+C:\Users\wonda\Desktop\prop_teamwolftec-Obaid\propc#\newVersion1_11_2020\LoanStandApfeb20version\LoanStandApp\obj\Debug\LoanStandApp.csproj.CoreCompileInputs.cache
+C:\Users\wonda\Desktop\prop_teamwolftec-Obaid\propc#\newVersion1_11_2020\LoanStandApfeb20version\LoanStandApp\obj\Debug\LoanStandApp.csproj.CopyComplete
+C:\Users\wonda\Desktop\prop_teamwolftec-Obaid\propc#\newVersion1_11_2020\LoanStandApfeb20version\LoanStandApp\obj\Debug\LoanStandApp.exe
+C:\Users\wonda\Desktop\prop_teamwolftec-Obaid\propc#\newVersion1_11_2020\LoanStandApfeb20version\LoanStandApp\obj\Debug\LoanStandApp.pdb
