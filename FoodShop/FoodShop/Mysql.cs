@@ -7,7 +7,7 @@ using MySql.Data.MySqlClient;
 
 namespace FoodShop
 {
-    class Mysql
+    public class Mysql
     {
         public MySqlConnection cone;
 
@@ -115,6 +115,53 @@ namespace FoodShop
             }
         }
 
+        public Int32 GetAge(DateTime dateOfBirth)
+        {
+            var today = DateTime.Today;
+
+            var a = (today.Year * 100 + today.Month) * 100 + today.Day;
+            var b = (dateOfBirth.Year * 100 + dateOfBirth.Month) * 100 + dateOfBirth.Day;
+
+            return (a - b) / 10000;
+        }
+        private void isunderage( int User_ID)
+        {
+            string dateofBirth = "";
+            string sql = $@"SELECT dob FROM users where User_ID = '{User_ID}';";
+            MySqlCommand comm = new MySqlCommand(sql, cone);
+            MySqlDataReader reader = comm.ExecuteReader();
+            while (reader.Read())
+            {
+              dateofBirth   = reader[0].ToString();
+            }
+            reader.Close();
+            DateTime retDoB = DateTime.Parse(dateofBirth);
+
+            if (GetAge(retDoB) > 18)
+            {
+               // return true;
+                sql = $@"UPDATE event_account SET Drinking_age = '{1}' WHERE User_ID= '{User_ID}' ; ";
+                comm = new MySqlCommand(sql, cone);
+                reader = comm.ExecuteReader();
+                while (reader.Read())
+                {
+                    dateofBirth = reader[0].ToString();
+                }
+                reader.Close();
+            }
+            else
+            {
+                sql = $@"UPDATE event_account SET Drinking_age = '{0}' WHERE User_ID= '{User_ID}' ; ";
+                comm = new MySqlCommand(sql, cone);
+                reader = comm.ExecuteReader();
+                while (reader.Read())
+                {
+                    dateofBirth = reader[0].ToString();
+                }
+                reader.Close();
+            }
+        }
+
         public string SellItemToClient(string RFID, List<string> items, int money_spent)
         {
             try
@@ -132,6 +179,7 @@ namespace FoodShop
                 reader.Close();
                 if (User_ID != -1)
                 {
+                    bool drinking;
                     int UserBalanceStatus = 0;
                     sql = $@"SELECT Balance FROM event_account WHERE User_ID= '{User_ID}' ; ";
                     comm = new MySqlCommand(sql, cone);
@@ -141,6 +189,16 @@ namespace FoodShop
                         UserBalanceStatus = Convert.ToInt32(reader[0].ToString());
                     }
                     reader.Close();
+
+                    sql = $@"SELECT Drinking_age FROM event_account WHERE User_ID= '{User_ID}' ; ";
+                    comm = new MySqlCommand(sql, cone);
+                    reader = comm.ExecuteReader();
+                    while (reader.Read())
+                    {
+                       drinking  = Convert.ToBoolean(reader[0].ToString());
+                    }
+                    reader.Close();
+                    isunderage(User_ID);
                     if (UserBalanceStatus >= money_spent)
                     {
                         UserBalanceStatus -= money_spent;
@@ -222,7 +280,7 @@ namespace FoodShop
                                     }
                                     else
                                     {
-                                        return "somthing wrong happened!";
+                                        return "something wrong happened!";
                                     }
                                 }
                                 else
@@ -294,7 +352,7 @@ namespace FoodShop
                 }
 
             }
-            catch
+            catch(Exception e)
             {
                 return "something wrong happened";
 

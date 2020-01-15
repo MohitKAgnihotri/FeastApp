@@ -136,11 +136,14 @@
   <data name="rfidbutten" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\rfidbutten.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="x-icon-png-16" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\x-icon-png-16.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="button_souvenirs1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\button_souvenirs1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="button_drinks" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\button_drinks.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="button_drinks (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\button_drinks (2).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="rfidp" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\rfidp.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -148,11 +151,11 @@
   <data name="CAPS" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\CAPS.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="button_remove" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\button_remove.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="cocktail" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\cocktail.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="button_remove1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\button_remove1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="t shirt" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\t shirt.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -172,29 +175,23 @@
   <data name="softdrinks" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\softdrinks.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="burger-png-png-images-yellow-images-12" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\burger-png-png-images-yellow-images-12.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="button_souvenirs (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\button_souvenirs (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="images (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\images (1).jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="button_food-bank (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\button_food-bank (2).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="button_order" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\button_order.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="cold-drink-images-png-png" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\cold-drink-images-png-png.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="button_souvenirs(1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\button_souvenirs(1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="button_souvenirs" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\button_souvenirs.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="button_drinks1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\button_drinks1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="button_food" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\button_food.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="ice cream" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\ice cream.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -202,14 +199,14 @@
   <data name="rfid" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\rfid.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="button_drinks1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\button_drinks1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="button_souvenirs(1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\button_souvenirs(1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="btnClose_Hover_tr" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\btnClose_Hover_tr.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="button_souvenirs2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\button_souvenirs2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="images" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="button_sell1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\button_sell1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -217,8 +214,8 @@
   <data name="keychain1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\keychain1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="images" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\images.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="button_souvenirs2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\button_souvenirs2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="close_greenBTR" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\close_greenBTR.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -232,8 +229,14 @@
   <data name="magnet" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\magnet.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="button_drinks" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\button_drinks.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="wijn-png-71" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\wijn-png-71.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="beer" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\beer.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="ice-cream-png-ice-cream-png-transparent-image-1574" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\ice-cream-png-ice-cream-png-transparent-image-1574.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -244,17 +247,17 @@
   <data name="coca cola" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\coca cola.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="beer" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\beer.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="burger-png-png-images-yellow-images-12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\burger-png-png-images-yellow-images-12.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="button_sell" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\button_sell.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="button_remove" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\button_remove.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="button_order" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\button_order.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="x-icon-png-16" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\x-icon-png-16.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="button_food-bank (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\button_food-bank (2).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="z7LayersLogoTr" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\z7LayersLogoTr.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -268,13 +271,13 @@
   <data name="button_souvenirsY" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\button_souvenirsY.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="button_food" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\button_food.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="button_remove1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\button_remove1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="button_remove (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\button_remove (2).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="button_drinks (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\button_drinks (2).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="button_x1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\button_x1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

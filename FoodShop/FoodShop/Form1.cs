@@ -701,5 +701,20 @@ namespace FoodShop
         {
 
         }
+
+        private void groupBox6_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void dateTimePicker1_ValueChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void gbFood_Enter(object sender, EventArgs e)
+        {
+
+        }
     }
 }
