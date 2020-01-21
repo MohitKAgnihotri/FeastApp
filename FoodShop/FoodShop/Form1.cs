@@ -383,7 +383,7 @@ namespace FoodShop
             else
             {
                 List<string> temp = new List<string>();
-                lbReceipt.Items.Add("Wijn - "+lbMagnetPrice.Text);
+                lbReceipt.Items.Add("Caps - "+lbMagnetPrice.Text);
                 foreach (string item in lbReceipt.Items)
                 {
                     temp.Add(item);
@@ -495,7 +495,7 @@ namespace FoodShop
             else
             {
                 List<string> temp = new List<string>();
-                lbReceipt.Items.Add("Caps - " + lbIceTeaPrice.Text);
+                lbReceipt.Items.Add("Wijn - " + lbIceTeaPrice.Text);
                 foreach (string item in lbReceipt.Items)
                 {
                     temp.Add(item);

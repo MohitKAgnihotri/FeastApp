@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 using MySql.Data.MySqlClient;
 
 namespace FoodShop
@@ -124,8 +125,28 @@ namespace FoodShop
 
             return (a - b) / 10000;
         }
-        private void isunderage( int User_ID)
+
+        private void UpdateAllowedDrinkingStatus(bool isAllowedToBuyAlcohol, int User_ID)
         {
+            string sql = "";
+            if (isAllowedToBuyAlcohol)
+            { 
+                sql = $@"UPDATE event_account SET Drinking_age = '{1}' WHERE User_ID= '{User_ID}' ; ";
+            }
+            else
+            {
+                sql = $@"UPDATE event_account SET Drinking_age = '{0}' WHERE User_ID= '{User_ID}' ; ";
+            }
+            MySqlCommand comm = new MySqlCommand(sql, cone);
+            MySqlDataReader reader = comm.ExecuteReader();
+            while (reader.Read())
+            {
+            }
+            reader.Close();
+        }
+        private bool isunderage( int User_ID)
+        {
+            bool isUnderage = true;
             string dateofBirth = "";
             string sql = $@"SELECT dob FROM users where User_ID = '{User_ID}';";
             MySqlCommand comm = new MySqlCommand(sql, cone);
@@ -139,27 +160,27 @@ namespace FoodShop
 
             if (GetAge(retDoB) > 18)
             {
-               // return true;
-                sql = $@"UPDATE event_account SET Drinking_age = '{1}' WHERE User_ID= '{User_ID}' ; ";
-                comm = new MySqlCommand(sql, cone);
-                reader = comm.ExecuteReader();
-                while (reader.Read())
-                {
-                    dateofBirth = reader[0].ToString();
-                }
-                reader.Close();
+                isUnderage = false;
             }
             else
             {
-                sql = $@"UPDATE event_account SET Drinking_age = '{0}' WHERE User_ID= '{User_ID}' ; ";
-                comm = new MySqlCommand(sql, cone);
-                reader = comm.ExecuteReader();
-                while (reader.Read())
-                {
-                    dateofBirth = reader[0].ToString();
-                }
-                reader.Close();
+                isUnderage = true;
             }
+            return isUnderage;
+        }
+
+        public bool IsAlcholBeingPurchased(List<string> items)
+        {
+            bool isAlcholBeingPurchased = false;
+            foreach (string item in items)
+            {
+                if (item.Contains("Beer") || item.Contains("Wijn"))
+                {
+                    isAlcholBeingPurchased = true;
+                    break;
+                }
+            }
+            return isAlcholBeingPurchased;
         }
 
         public string SellItemToClient(string RFID, List<string> items, int money_spent)
@@ -167,7 +188,9 @@ namespace FoodShop
             try
             {
                 int Purchase_number = 0;
-                int User_ID = 0;
+                int User_ID = -1;
+                bool isAlcholicDrinkOrdered = IsAlcholBeingPurchased(items);
+                bool isAllowedToBuyAlchol = false;
                 string sql = $@"SELECT user_id FROM users where rfid = '{RFID}';";
                 MySqlCommand comm = new MySqlCommand(sql, cone);
                 cone.Open();
@@ -179,7 +202,7 @@ namespace FoodShop
                 reader.Close();
                 if (User_ID != -1)
                 {
-                    bool drinking;
+                    string allowedToBuyAlcohol = "";
                     int UserBalanceStatus = 0;
                     sql = $@"SELECT Balance FROM event_account WHERE User_ID= '{User_ID}' ; ";
                     comm = new MySqlCommand(sql, cone);
@@ -190,17 +213,50 @@ namespace FoodShop
                     }
                     reader.Close();
 
-                    sql = $@"SELECT Drinking_age FROM event_account WHERE User_ID= '{User_ID}' ; ";
-                    comm = new MySqlCommand(sql, cone);
-                    reader = comm.ExecuteReader();
-                    while (reader.Read())
+                    if (isAlcholicDrinkOrdered)
                     {
-                       drinking  = Convert.ToBoolean(reader[0].ToString());
+                        //Try to query if the user is allowed to buy alcohol
+                        sql = $@"SELECT Drinking_age FROM event_account WHERE User_ID= '{User_ID}' ; ";
+                        comm = new MySqlCommand(sql, cone);
+                        reader = comm.ExecuteReader();
+                        while (reader.Read())
+                        {
+                            allowedToBuyAlcohol = Convert.ToString(reader[0].ToString());
+                        }
+                        reader.Close();
+
+                        if (allowedToBuyAlcohol == "")
+                        {
+                            //Need to update the table.
+                            // Query the table, update with the right status
+                            bool isUnderAge = isunderage(User_ID);
+                            UpdateAllowedDrinkingStatus(!isUnderAge, User_ID);
+                            isAllowedToBuyAlchol = !isUnderAge;
+                        }
+                        else if (allowedToBuyAlcohol.ToLower() == "true" )
+                        {
+                            isAllowedToBuyAlchol = true;
+                        }
+                        else if (allowedToBuyAlcohol.ToLower() == "false")
+                        {
+                            isAllowedToBuyAlchol = false;
+                        }
+                        else
+                        {
+                            isAllowedToBuyAlchol = false;
+                        }
                     }
-                    reader.Close();
-                    isunderage(User_ID);
-                    if (UserBalanceStatus >= money_spent)
+
+                    if (!isAllowedToBuyAlchol)
                     {
+                        return " Not allowed to buy alchol";
+                    }
+
+                    if (UserBalanceStatus < money_spent)
+                    {
+                        return " no money or balance";
+                    } 
+                    
                         UserBalanceStatus -= money_spent;
                         string maxPurchaseNumber = "";
                         sql = $@"SELECT MAX(Purchase_number) FROM shop_invoice ; ";
@@ -339,12 +395,6 @@ namespace FoodShop
                         {
                             return "not added correctly!";
                         }
-
-                    }
-                    else
-                    {
-                        return " no money or balance";
-                    }
                 }
                 else
                 {
@@ -354,7 +404,7 @@ namespace FoodShop
             }
             catch(Exception e)
             {
-                return "something wrong happened";
+                return "something wrong happened " + e.ToString();
 
             }
             finally
